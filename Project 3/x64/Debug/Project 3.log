@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\isaac\source\repos\Project 3\Project 3\Source.cpp(86,34): warning C4101: 'e': unreferenced local variable
+  Project 3.vcxproj -> C:\Users\isaac\source\repos\Project 3\x64\Debug\Project 3.exe
